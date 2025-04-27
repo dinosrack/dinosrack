@@ -1,4 +1,4 @@
-# Привет! 
+## Обо мне
 
 Меня зовут Александр, но в сообществе я известен как Дино. 
 
@@ -6,11 +6,22 @@
 
 Также за спиной у меня есть опыт модерирования, администрирования и менеджмента различных проектов в сфере Discord и Minecraft. Пожалуй, на этом все.
 
-## Принимал участие
+### Технолоджия
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Принимал участие
 
 — Главный Администратор Minecraft-сервера [Stonix World](https://stonix.world/)
+
 — Модератор Discord-сервиса по поиску серверов [DiscordServer](https://discordserver.info/)
+
 — Менеджер Discord-сервисов по поиску серверов и ботов [BotiCord](https://boticord.top/)
+
 — Менеджер Discord-сервисов по поиску серверов и ботов [VARE](https://vare.pw/)
+
 — Главный Администратор Minecraft-сервера **bamb.su**
+
 — Владелец нескольких Discord-серверов в категориях **Игры** и **Общение** с суммарным количеством участников свыше 10k.
