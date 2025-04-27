@@ -6,7 +6,7 @@
 
 Также за спиной у меня есть опыт модерирования, администрирования и менеджмента различных проектов в сфере Discord и Minecraft. Пожалуй, на этом все.
 
-### Изучал такие технолоджии
+### Технолоджия
 
 ![CSharp](https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
