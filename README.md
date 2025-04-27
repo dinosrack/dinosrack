@@ -16,7 +16,7 @@
 
 ### Статистика
 
-![dinosrack GitHub stats](https://github-readme-stats.vercel.app/api?username=dinosrack&show_icons=true&theme=dracula)
+![dinosrack GitHub stats](https://github-readme-stats.vercel.app/api?username=dinosrack&show_icons=true&theme=tokyonight)
 
 ### Принимал участие
 
