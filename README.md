@@ -14,10 +14,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Статистика
-
-![Dino's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=default)
-
 ### Принимал участие
 
 — Главный Администратор Minecraft-сервера [Stonix World](https://stonix.world/)
