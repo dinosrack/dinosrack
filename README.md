@@ -1,18 +1,20 @@
-## Обо мне
+## Обо мне {#about-me}
 
 Меня зовут Александр, но в сообществе я известен как Дино. 
 
-Я лилипут в программировании и не имею публичных проектов. Из практики у меня только приложения, созданные в рамках обучения в колледже. 
+Я лилипут в программировании и не имею публичных проектов. Из практики у меня только приложения, созданные в рамках обучения в колледже. Еще немного понимаю в UI/UX...
 
 Также за спиной у меня есть опыт модерирования, администрирования и менеджмента различных проектов в сфере Discord и Minecraft. Пожалуй, на этом все.
 
-### Технолоджия
+### Технолоджия {#technology}
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Принимал участие
+### Принимал участие {#works}
 
 — Главный Администратор Minecraft-сервера [Stonix World](https://stonix.world/)
 
