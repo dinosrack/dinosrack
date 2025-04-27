@@ -16,7 +16,7 @@
 
 ### Статистика
 
-![dinosrack GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=default)
+![dinosrack GitHub stats](https://github-readme-stats.vercel.app/api?username=dinosrack&show_icons=true&theme=default)
 
 ### Принимал участие
 
