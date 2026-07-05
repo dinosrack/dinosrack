@@ -1,3 +1,5 @@
+![](https://github.com/dinosrack/dinosrack/blob/main/welcome.png)
+
 ### Технолоджия
 
 ![CSharp](https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
