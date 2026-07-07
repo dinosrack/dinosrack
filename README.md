@@ -9,17 +9,17 @@
 
 <h2>Tech Stack</h2>
 
-<h3>🛠️ Languages & Frameworks:</h3>
+<h3>Languages & Frameworks:</h3>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 
-<h3>💻📱 Desktop & Mobile:</h3>
+<h3>Desktop & Mobile:</h3>
 
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
 ![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 
-<h3>💾 Databases</h3>
+<h3>Databases</h3>
 
 ![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
