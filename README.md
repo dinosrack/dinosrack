@@ -43,7 +43,7 @@ I specialize in maintaining stable, well-organized communities and services.
 
 <h2>GitHub Stats</h2>
 
-![dinosrack GitHub stats](https://github-readme-stats.vercel.app/api?username=dinosrack&show_icons=true&theme=tokyonight)
+[![dinosrack GitHub stats](https://github-readme-stats.vercel.app/api?username=dinosrack)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
