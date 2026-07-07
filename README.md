@@ -41,12 +41,6 @@ I specialize in maintaining stable, well-organized communities and services.
 
 ---
 
-<h2>GitHub Stats</h2>
-
-[![dinosrack GitHub stats](https://github-stats-extended.vercel.app/api?username=dinosrack)](https://github.com/stats-organization/github-stats-extended)
-
----
-
 <h2>Contact with me</h2>
 
 - ✉️ Discord: [dinosrack](https://discord.com/users/279220345767198723)
