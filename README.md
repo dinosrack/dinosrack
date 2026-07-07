@@ -35,6 +35,8 @@
 | Letty | Discord Bot for Finding Teammates | 🚧 In development |
 | Setta | Mobile App for Workout Tracking | 🚧 In development |
 
+<h2>📂 My Past Projects</h2>
+
 My experience includes administering high-traffic Discord servers with tens of thousands of members, serving as a manager on monitoring platforms for Discord servers and bots (for example: [VARE](https://vare.pw/), [BotiCord](https://boticord.top/), [DISCORDSERVER](https://discordserver.info/)), as well as managing Minecraft servers (for example: [Stonix](https://stonix.world/)). 
 
 I specialize in maintaining stable, well-organized communities and services.
