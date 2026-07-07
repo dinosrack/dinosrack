@@ -10,7 +10,7 @@
 
 ---
 
-<h2>Tech Stack</h2>
+<h2>🧰 Tech Stack</h2>
 
 <h3>🧩 Languages & ⚙️ Frameworks:</h3>
 
@@ -28,12 +28,12 @@
 
 ---
 
-<h2>Projects</h2>
+<h2>⚡ My Projects</h2>
 
 | Name | Description | Status |
 |------|-------------|--------|
-| Letty | Discord Bot for Finding Teammates | In development |
-| Setta | Mobile App for Workout Tracking | In development |
+| Letty | Discord Bot for Finding Teammates | 🚧 In development |
+| Setta | Mobile App for Workout Tracking | 🚧 In development |
 
 My experience includes administering high-traffic Discord servers with tens of thousands of members, serving as a manager on monitoring platforms for Discord servers and bots (for example: [VARE](https://vare.pw/), [BotiCord](https://boticord.top/), [DISCORDSERVER](https://discordserver.info/)), as well as managing Minecraft servers (for example: [Stonix](https://stonix.world/)). 
 
@@ -41,7 +41,7 @@ I specialize in maintaining stable, well-organized communities and services.
 
 ---
 
-<h2>Contact with me</h2>
+<h2>📫 Contact with me</h2>
 
 - ✉️ Discord: [dinosrack](https://discord.com/users/279220345767198723)
 - ✉️ Telegram: [Aleksandr](https://t.me/redin_alxr)
